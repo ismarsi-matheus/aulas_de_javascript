@@ -1,8 +1,4 @@
-Aqui está a versão formatada em Markdown com melhor legibilidade:  
 
----
-
-```markdown
 # Front-End e Web Development  
 
 ## O que é Front-End?  
