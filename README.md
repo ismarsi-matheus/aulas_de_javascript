@@ -129,11 +129,3 @@ O modelo cliente-servidor define como os dispositivos se comunicam na web.
 - Para obter o **endereço IP** de um servidor ao digitar uma URL, o navegador consulta um **servidor DNS (Domain Name System)**.  
 - Existem cerca de **13 servidores DNS principais** que informam o endereço IP dos servidores a partir de seus domínios.  
 
----
-
-📌 **Este conteúdo fornece uma base sólida sobre desenvolvimento web e os principais conceitos de front-end! 🚀**
-```
-
----
-
-Agora o conteúdo está bem estruturado, com títulos, listas e formatação adequada para uma leitura clara e organizada. 🚀
