@@ -4,6 +4,7 @@ console.log("estamos na aula 06");
 //javascript  possui tipagem dinâmica :interfere os tipos de dados
 //javascript possui uma tipagem fraca: não é necessário declarar o tipo de dado
 
+
 var nome = "Matheus Ismarsi"; //string (texto):utilize aspas simples ou duplas
 var idade = 18; //number
 var altura = 1.93; //number
@@ -31,6 +32,17 @@ console.log(curso, topico);
 //!Não utilize o var nos seus códigos, utilize o let e const
 
 let nota_do_aluno = 10; //let:variável que pode ser alterada
-const media = 8; //const:variável que não pode ser alterada
+const media_do_aluno = 8; //const:variável que não pode ser alterada
 
 nota_do_aluno = 9; //alterando o valor da variável
+
+console.log(nota_do_aluno);
+console.log(media_do_aluno);
+
+//media_do_aluno = 7; //não é possível alterar o valor da variável
+
+
+//var é global e local
+//let é local e não pode ser redeclarada
+//const é local e não pode ser redeclarada
+
