@@ -1,71 +1,71 @@
 const prompt = require("prompt-sync")();
 
-let i =0;
+// let i =0;
 
-// expressão 1:inicialização da varivel de controle
-// expressão 2:condição que define quando irá ocorrer a parada do for
-// expressão 3:incremento da variável de controle
+// // expressão 1:inicialização da varivel de controle
+// // expressão 2:condição que define quando irá ocorrer a parada do for
+// // expressão 3:incremento da variável de controle
 
-for(expressão 1;expressão 2;expressão 3){
-    //o escopo do for é aqui dentro
-}
+// for(expressão 1;expressão 2;expressão 3){
+//     //o escopo do for é aqui dentro
+// }
 
-for(i=0;i<5;i+=2){
-    console.log("Contador:", i);
-}
+// for(i=0;i<5;i+=2){
+//     console.log("Contador:", i);
+// }
 
-console.log("Variável i:", i);
+// console.log("Variável i:", i);
 
-for (;;) {} ->loop infinito
+// for (;;) {} ->loop infinito
 
-for (;;) {
-    if (tal condição ocorrer ) break;
-}
+// for (;;) {
+//     if (tal condição ocorrer ) break;
+// }
 
-for (;;) {}
+// for (;;) {}
 
-while(true){}
+// while(true){}
 
-for(let i=0;i<5;){
-    console.log("Contador:", i);
-}
+// for(let i=0;i<5;){
+//     console.log("Contador:", i);
+// }
 
-for (let i = 0; i < 5; i++) {
-  console.log("Contador:", i);
-}
+// for (let i = 0; i < 5; i++) {
+//   console.log("Contador:", i);
+// }
 
-//limpando o console
-console.clear();
+// //limpando o console
+// console.clear();
 
-//exemplo
+// //exemplo
 
-let maior_numero= 0;
-let numero_informado;
+// let maior_numero= 0;
+// let numero_informado;
 
-for (let i=1;i<=5;i++){
-    numero_informado = Number(prompt("Informe um número:"));
-    if(numero_informado > maior_numero){
-        maior_numero = numero_informado;
-    }
-}
-console.log("O maior número informado foi:", maior_numero);
+// for (let i=1;i<=5;i++){
+//     numero_informado = Number(prompt("Informe um número:"));
+//     if(numero_informado > maior_numero){
+//         maior_numero = numero_informado;
+//     }
+// }
+// console.log("O maior número informado foi:", maior_numero);
 
-* Exemplo:precorrendo strings com for
+// * Exemplo:precorrendo strings com for
 
-const nome='Lucas';
+// const nome='Lucas';
 
-// console.log(nome[0]); 
+// // console.log(nome[0]); 
+
+// // for(let i=0;i< nome.length;i++){
+// //     console.log(nome[i]);
+// //}
 
 // for(let i=0;i< nome.length;i++){
 //     console.log(nome[i]);
-//}
-
-for(let i=0;i< nome.length;i++){
-    console.log(nome[i]);
-    if(i===2){
-        break;
-    }
-} 
+//     if(i===2){
+//         break;
+//     }
+// } 
 
 // * arraays
 
