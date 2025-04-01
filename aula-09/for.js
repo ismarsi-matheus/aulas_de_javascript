@@ -88,7 +88,7 @@ console.log(pessoa.length);
 
 //fatiando o array
 
-const numeros=[40,34,67,89,23,10]
+const numeros=[40,34,67,89,23,10];
 
 console.log(numeros.slice(0,2));
 console.log(numeros.slice(2));
