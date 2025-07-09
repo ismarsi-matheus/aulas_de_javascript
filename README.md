@@ -166,6 +166,3 @@ Não aceita comentários ou aspas simples.
 }
 
 Essa documentação apresenta os fundamentos, tecnologias e lógicas usadas no projeto, servindo como guia técnico para quem quiser colaborar, estudar ou expandir a aplicação.
-
-
-Se quiser, posso gerar uma versão com tópicos em inglês ou adicionar badges, instruções de instalação, ou mesmo um sumário automático. Quer dar mais cara de projeto open source? 😄🚀
